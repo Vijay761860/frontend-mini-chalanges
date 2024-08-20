@@ -1,0 +1,27 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.counter{
+    font-size: 3rem;
+
+}
+button{
+    padding: 9px 13px;
+    background-color: aqua;
+    border: 1 px solid rgb(226, 221, 221);
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+.inputchange{
+    width: 5rem;
+    height:2rem ;
+    font-size: 1rem;
+
+}
